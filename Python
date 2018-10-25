@@ -2,6 +2,10 @@
 A perceptron is the basic part of a neural network.
 Logic gates namely AND, OR,XOR are some of the building blocks of every technological breakthrough for the past decade specially for hardware.
 I’ve created a perceptron using numpy that implements this Logic Gates with the dataset acting as the input to the perceptron.
+
+
+
+
 import numpy as np
 
 
